@@ -1,0 +1,9 @@
+build/
+bin/classes
+bin/res
+bin/AndroidManifest.xml
+bin/jarlist.cache
+bin/R.txt
+gen/
+obj/
+.settings
